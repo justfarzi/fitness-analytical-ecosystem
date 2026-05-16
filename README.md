@@ -1,1 +1,1 @@
-# fitness-tracking-ecosystem
+# fitness-analytical-ecosystem
